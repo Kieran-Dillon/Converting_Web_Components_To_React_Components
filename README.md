@@ -27,4 +27,4 @@ In this example, there was no refactoring to do for component independence as al
 There were only a couple of callbacks, so callback hell was not an issue.
 
 Instructions:
-Create folder in desired location. Create react app and start npx server in terminal, add file with code to react app file. View output in browser.
+Create folder in desired location. Create react app and start npx server in terminal, add files to react app folders. View output in browser.
